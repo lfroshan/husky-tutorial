@@ -33,3 +33,7 @@ console.log(
   "This line is not properly written in local but this will be properly maintained in git because of husky."
 );
 console.log();
+
+         console.log("again another line.");
+
+console.log("removed prettier.")
