@@ -37,3 +37,5 @@ console.log();
          console.log("again another line.");
 
 console.log("removed prettier.")
+
+    console.log("I don't know what is happening.")
